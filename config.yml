@@ -1,0 +1,8 @@
+chance:
+  cow: 0.5
+  creeper: 0.5
+  enderman: 0.5
+  pig: 0.5
+  sheep: 0.5
+  skeleton: 0.5
+  zombie: 0.5
