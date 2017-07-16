@@ -1,3 +1,7 @@
 name: SeafaringSpawns
 main: com.boothousegaming.seafaringspawns.SeafaringSpawns
 version: 1.0
+commands:
+  sfstest:
+    description: sfstest
+    usage: /sfstest
