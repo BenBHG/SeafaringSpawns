@@ -51,5 +51,5 @@ Temporary Items
 /target/
 
 # Development Environment
-#.classpath
-#.project
+.classpath
+.project
